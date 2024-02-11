@@ -7,7 +7,7 @@
 
 👋 Hello, I'm Shubham Raj
 
-🤖 Creator of Lucy HealthCare ChatBot
+🤖 Creator of BlissBot HealthCare ChatBot
 
 🌐 Visit the ChatBot at: http://192.168.1.8:8503
 
