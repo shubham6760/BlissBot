@@ -1,4 +1,4 @@
-                                                            lucy HealthCare ChatBot
+                                                            BlissBot HealthCare ChatBot
 
 
 
@@ -15,9 +15,9 @@
 
 🏥 A bit about Lucy HealthCare ChatBot:
 
-Lucy HealthCare ChatBot is the result of my passion for blending cutting-edge technology with the world of medicine. By harnessing the vast knowledge contained within The GALE ENCYCLOPEDIA of MEDICINE, I've developed a conversational AI that aims to assist, educate, and provide information on various health-related topics.
+BlissBot HealthCare ChatBot is the result of my passion for blending cutting-edge technology with the world of medicine. By harnessing the vast knowledge contained within The GALE ENCYCLOPEDIA of MEDICINE, I've developed a conversational AI that aims to assist, educate, and provide information on various health-related topics.
 
-🧬 What Lucy HealthCare ChatBot can do:
+🧬 What BlissBot HealthCare ChatBot can do:
 
 Answer medical questions
 Provide information on diseases, conditions, and treatments
