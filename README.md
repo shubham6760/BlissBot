@@ -1,7 +1,7 @@
                                                             lucy HealthCare ChatBot
 
 
-![image](https://github.com/shubham6760/LucyHealthCareChatBot/assets/92684809/eacc0b98-0c94-4531-a2fd-db51dde20c85)
+
 
 
 
